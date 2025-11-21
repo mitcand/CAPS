@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "97804a1bd73600c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f39d574d327b75a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffe8d48c66bea32b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6901c6aa80e8506",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6b10abbf0e15431",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "297aed606be8354b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e092200d95505d34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "93783a817cac137e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "e01677f70f2cf2c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "cecedd42b03515f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "544b8ec76ef99935",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TODO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TODO"
+            }
+          },
+          {
+            "id": "bc396f3967119f35",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TODO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TODO"
+            }
+          },
+          {
+            "id": "663c3d371cdb0c67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9f711f9aabae7df6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a24d96b57e45a6dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TODO.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TODO"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "297aed606be8354b",
+  "lastOpenFiles": [
+    "03 RESOURCES/FFMPEG",
+    "03 RESOURCES/VII",
+    "03 RESOURCES/VSCODE",
+    "03 RESOURCES/RESOLVE STUDIO",
+    "03 RESOURCES/R ANALYSIS",
+    "99 META/TEMPLATES/TARGET TEMPLATE.md",
+    "04 ARCHIVE/Untitled",
+    "04 ARCHIVE/ANALYSIS ENHANCEMENTS",
+    "04 ARCHIVE/HISTORICAL SUMMARIES",
+    "04 ARCHIVE/SPECIAL PROJECTS",
+    "04 ARCHIVE/TARGET ROLLUPS",
+    "04 ARCHIVE/SIGNIFICANT OBSERVATIONS",
+    "99 META/TEMPLATES/PRODUCT TYPE TEMPLATE.md",
+    "99 META/TEMPLATES/MISSION TEMPLATE.md",
+    "99 META/TEMPLATES/COUNTRY TEMPLATE.md",
+    "99 META/TEMPLATES/CUSTOMER TEMPLATE.md",
+    "99 META/TEMPLATES/PRODUCT TEMPLATE.md",
+    "TODO.md",
+    "03 RESOURCES/OBSIDIAN/Production Pipeline.md",
+    "03 RESOURCES/OBSIDIAN/Product Naming Convention.md",
+    "Welcome.md"
+  ]
+}
