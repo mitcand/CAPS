@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f39d574d327b75a8",
+        "id": "75790a9ccd7cdf9f",
         "type": "tabs",
         "children": [
           {
-            "id": "ffe8d48c66bea32b",
+            "id": "9134b719af93fec7",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -170,7 +170,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -180,8 +179,28 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "297aed606be8354b",
+  "active": "9134b719af93fec7",
   "lastOpenFiles": [
+    "99 META/BASES/BASES - WHAT GOES IN HERE?.md",
+    "99 META/SCRIPTS/SCRIPTS - WHAT GOES IN HERE?.md",
+    "04 ARCHIVE/SPECIAL PROJECTS/SP - WHAT GOES IN HERE?.md",
+    "02 AREAS/PROGRAMS/PROGRAMS - WHAT GOES IN HERE?.md",
+    "04 ARCHIVE/TARGET ROLLUPS/TR - WHAT GOES IN HERE?.md",
+    "02 AREAS/PROGRAMS",
+    "04 ARCHIVE/SIGNIFICANT OBSERVATIONS/SG - WHAT GOES IN HERE?.md",
+    "04 ARCHIVE/HISTORICAL SUMMARIES/HS - WHAT GOES IN HERE?.md",
+    "04 ARCHIVE/ANALYSIS ENHANCEMENTS/AE - WHAT GOES IN HERE?.md",
+    "03 RESOURCES/VSCODE/VSCODE Notes.md",
+    "03 RESOURCES/VII/VII Notes.md",
+    "03 RESOURCES/RESOLVE STUDIO/DRS Notes.md",
+    "03 RESOURCES/R ANALYSIS/R Notes.md",
+    "03 RESOURCES/FFMPEG/FFMPEG Notes.md",
+    "02 AREAS/TARGETS/TARGETS FOLDER - WHAT GOES IN HERE?.md",
+    "02 AREAS/PRODUCT TYPES/PRODUCT TYPES FOLDER - WHAT GOES IN HERE?.md",
+    "02 AREAS/MISSIONS/MISSIONS FOLDER - WHAT GOES IN HERE?.md",
+    "02 AREAS/CUSTOMERS/CUSTOMERS FOLDER - WHAT GOES IN HERE?.md",
+    "02 AREAS/COUNTRIES/COUNTRIES FOLDER - WHAT GOES IN HERE?.md",
+    "01 PROJECTS/PROJECTS FOLDER - WHAT GOES IN HERE?.md",
     "03 RESOURCES/FFMPEG",
     "03 RESOURCES/VII",
     "03 RESOURCES/VSCODE",
@@ -192,16 +211,11 @@
     "04 ARCHIVE/ANALYSIS ENHANCEMENTS",
     "04 ARCHIVE/HISTORICAL SUMMARIES",
     "04 ARCHIVE/SPECIAL PROJECTS",
-    "04 ARCHIVE/TARGET ROLLUPS",
-    "04 ARCHIVE/SIGNIFICANT OBSERVATIONS",
     "99 META/TEMPLATES/PRODUCT TYPE TEMPLATE.md",
     "99 META/TEMPLATES/MISSION TEMPLATE.md",
     "99 META/TEMPLATES/COUNTRY TEMPLATE.md",
     "99 META/TEMPLATES/CUSTOMER TEMPLATE.md",
     "99 META/TEMPLATES/PRODUCT TEMPLATE.md",
-    "TODO.md",
-    "03 RESOURCES/OBSIDIAN/Production Pipeline.md",
-    "03 RESOURCES/OBSIDIAN/Product Naming Convention.md",
-    "Welcome.md"
+    "TODO.md"
   ]
 }
